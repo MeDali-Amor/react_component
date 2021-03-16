@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: #fff;
+}
+.address h2{
+    margin-left: 20px;
+    font-weight: 400;
+}
